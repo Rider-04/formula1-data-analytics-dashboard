@@ -159,27 +159,27 @@ Based on the analysis, several strategic insights can be derived:
 
 formula1-powerbi-analytics
 │
+├── README.md
+│
 ├── datasets
-│ ├── drivers.csv
-│ ├── constructors.csv
-│ ├── races.csv
-│ ├── results.csv
-│ ├── pit_stops.csv
-│ └── qualifying.csv
+│   ├── drivers.csv
+│   ├── constructors.csv
+│   ├── races.csv
+│   ├── results.csv
+│   ├── pit_stops.csv
+│   └── qualifying.csv
 │
 ├── dashboards
-│ └── Formula1_Analytics_Dashboard.pbix
+│   └── Formula1_Analytics_Dashboard.pbix
 │
 ├── images
-│ ├── dashboard1_championship_analytics.png
-│ ├── dashboard2_performance_overview.png
-│ ├── dashboard3_race_strategy.png
-│ └── dashboard4_championship_insights.png
+│   ├── dashboard1_championship_analytics.png
+│   ├── dashboard2_performance_overview.png
+│   ├── dashboard3_race_strategy.png
+│   └── dashboard4_championship_insights.png
 │
 ├── presentation
-│ └── Formula1_Analytics_Presentation.pptx
-│
-└── README.md
+│   └── Formula1_Analytics_Presentation.pptx
 
 
 ---
