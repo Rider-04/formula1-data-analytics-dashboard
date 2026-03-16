@@ -156,7 +156,7 @@ Based on the analysis, several strategic insights can be derived:
 ---
 
 # 📁 Project Structure
-
+```
 formula1-powerbi-analytics
 │
 ├── README.md
@@ -180,7 +180,7 @@ formula1-powerbi-analytics
 │
 ├── presentation
 │   └── Formula1_Analytics_Presentation.pptx
-
+```
 
 ---
 
